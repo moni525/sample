@@ -8,9 +8,9 @@ function App() {
   return (
     <>
       <h1>Learn React</h1>
-      <p>This is a simple React app.</p>
+      <p>Hello. This is Monigha..</p>
     </>
-  )
+  );
 }
 
 export default App
